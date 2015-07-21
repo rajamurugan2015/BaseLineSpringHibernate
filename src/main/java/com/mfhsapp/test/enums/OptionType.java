@@ -1,0 +1,5 @@
+package com.mfhsapp.test.enums;
+
+public enum OptionType {
+	CHECK_UNCHECK,SINGLE_NUM_VALUED,NUM_RANGE,SINGLE_DATE_VALUED,DATE_RANGED,STRING_VALUED
+}
